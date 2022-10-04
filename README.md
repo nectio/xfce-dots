@@ -1,0 +1,2 @@
+# xfce-dots
+xfce rice
