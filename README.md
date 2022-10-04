@@ -1,2 +1,2 @@
 # xfce-dots
-xfce rice
+my dotfiles!!!
