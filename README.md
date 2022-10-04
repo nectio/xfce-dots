@@ -2,10 +2,10 @@
 
 
 ## The stuff it contains
-1. Panel theme
-0. Window manager theme
+1. xfce4-panel theme
+0. xfwm4 (xfce window manager) theme
 0. Wallpaper
-0. Icon theme
+0. Icon theme (Fluent)
 1. Icon for whisker-menu
 
 
