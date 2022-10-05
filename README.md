@@ -1,33 +1,19 @@
-# Graphite Grub2 theme
+# Nectio,
+## xfce-dots
 
-![preview](preview.svg?raw=true)
 
-## Installation
+## The stuff it contains
+1. Panel theme
+2. Window manager theme
+3. Wallpaper
+4. Icon theme
+5. Icon for whisker-menu
+6. Grub theme
 
-RUN:
-
-```sh
-sudo ./install.sh
-```
-
-### Installation Usage
-
-Usage:  `sudo ./install.sh [OPTIONS...]`
-
-|  Options:              | Description: |
-|:-----------------------|:-------------|
-| -b, --boot             | Install grub theme into `/boot/grub/themes` |
-| -s, --screen           | screen display variant(s) [1080p/2k/4k] (default is 1080p) |
-| -r, --remove           | Uninstall theme |
-| -h, --help             | Show this help |
-
-## [Issues] Correcting display resolution
- - On the grub screen, press `c` to enter the command line
- - Enter `vbeinfo` or `videoinfo` to check available resolutions
- - Open `/etc/default/grub`, and edit `GRUB_GFXMODE=[height]x[width]x32` to match your resolution
- - Finally, run `grub-mkconfig -o /boot/grub/grub.cfg` to update your grub config
-
-## Documents
-[Grub2 theme reference](http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference)
-[Grub2 theme tutorial](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial)
-
+## Their locations
+1. ~/.config/gtk-3.0
+2. /usr/share/themes/
+3. you can choose the location for your wallpaper ;)
+4. /usr/share/icons/
+5. you can choose a location for this one too!!
+6. See install.sh file in grub folder
