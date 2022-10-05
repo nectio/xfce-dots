@@ -1,5 +1,4 @@
-# Nectio,
-## xfce-dots
+# xfce-dots
 
 
 ## The stuff it contains
