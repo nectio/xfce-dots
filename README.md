@@ -7,6 +7,7 @@
 0. Wallpaper
 0. Icon theme (Fluent)
 1. Icon for whisker-menu
+2. Grub theme
 
 
 ## Their locations
@@ -15,3 +16,4 @@
 0. you can choose the location for your wallpaper ;)
 0. /usr/share/icons/
 1. you can choose a location for this one too!!
+2. See install.sh file in grub2 folder
